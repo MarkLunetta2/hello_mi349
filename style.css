@@ -1,4 +1,18 @@
 body {
+    /*Changes background color of website*/
     background: #1E1E1E;
+    /*Changes text color of website*/
     color: white;
+    /*Gives website some room on the sides*/
+    Padding: 50px;
+    /*Changes font of website*/
+    font-family: Helvetica;
+}
+
+h1{
+    font-size: 3em;
+}
+
+h2{
+    font-size: 2.2em;
 }
