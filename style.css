@@ -11,8 +11,25 @@ body {
 
 h1{
     font-size: 3em;
+    padding-bottom: 5px;
+    border-bottom: 1px solid #ffffff;
 }
 
 h2{
     font-size: 2.2em;
+}
+
+/*This is how you access the id hello and only color the unique h1 with that id (hello).*/
+#hello{
+    color: red;
+}
+
+#hal{
+    width: 100px;
+}
+
+/*Colors the burndown unordered list's area certain way and gives it padding*/
+.burndown{
+    background: #424242;
+    padding: 10px;
 }
